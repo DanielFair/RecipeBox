@@ -1,0 +1,42 @@
+#recipeTitle {
+  background-color: burlywood;
+  width: 350px;
+  border-style: solid;
+  border: 1px 1px 1px 1px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+#recipebox {
+  background-color: #F1E7CD;
+  border-style:solid;
+  border-radius: 2px;
+  width: 450px;
+  text-align: center;
+  padding: 5px;
+  margin: auto;
+}
+
+#expandedIngredients {
+  /*background-color: linen;*/
+  border-radius: 3px;
+  text-align: center;
+  list-style-position: inside;
+}
+#expandedUL {
+    text-align: left;
+}
+
+.modal {
+  width: 25%;
+  margin: auto;
+}
+.modal-header {
+  height: 60px;
+  padding: 3px;
+  background-color: #F1E7CD;
+  border-bottom: 1px solid black;
+}
+.modal-content {
+  background-color: #F1E7CD;
+}
